@@ -1,4 +1,0 @@
-
-El dia de hoy arrancamos a hacer el repositorio en el GITHUB para nuestro proyecto "GymBro" el cual va a ser sobre un stock de kit de mancuernas, barras, discos, suplementos etc.
-Hoy emepezamos haciendo un diagrama de flujo para planificar como va a ser el funcionamiento de nuestra pagina.
-Primero el cliente entra a la pagina "GYM Bro", inicia sesion mira los productos, selecciona el producto, hace el pedido indicando el producto y la cantidad, se revisa en el stock si hay la cantidad solicitada y se genera el pedido, una vez generado se hace la factura y el cliente elige los metodos de pago a realizar, se manda la factura y un informe a el administrador que es el encargado de reabastecer el stock.
