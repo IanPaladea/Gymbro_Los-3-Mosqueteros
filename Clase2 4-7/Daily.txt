@@ -1,2 +1,0 @@
-El dia de hoy estuvimos realizando el diagrma de entidad relacion para nuestra base de datos, donde consistia en tener 4 tablas que son; cliente, Stock, Factura y detalle de factura, esto despues se fue remplazando hacer 5 tablas registrar, cliente, login, factura y stock.
-esta tabla explica de como el cliente tiene acceso a la pagina, si ya lo hizo el login inicia a su cuenta normal y en caso de que no lo este se registre, luego se encarga de ver si el cliente realiza una compra y ver si el producto esta en stock, por ultimo si compra algo el cliente tiene su factura.
