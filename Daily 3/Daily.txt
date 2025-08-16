@@ -1,0 +1,4 @@
+En el dia de hoy hicimos con mis compañeros lo que faltaba de la pagina que era arreglar la cpm y el diagrama de gantt, que lo habiamos hecho mal, luego de a ver modificado todo arreglamos un poco la pagina ya que no estaba funcionando bien el login y lo que hicimo para que funcione fue un loung.php y un Auth.php que eso era la conexion que tenia el login de la pagina con el resto de la pagina
+luego de eso empezamos a ver el tema del diseño que al momento de nosotros hacerlo no lo tomaba 
+asi lo quqe teniamos pensado hacer ya teniendo todo es dejarlos asi, pero no era muy presentable que digamos, esto tomando en cuenta ya estando en 
+el ambito de la casa y con nuestras pc que tambien teniamos el mismo error, pero lo pudimos completar y arreglar todos los errores y hacer una pagina funcional
