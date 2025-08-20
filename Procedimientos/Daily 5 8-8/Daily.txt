@@ -1,0 +1,1 @@
+Este dia estuvimos hacieno ya la parte del ingreso del stock, la cual tiene para ingresar nombre, una descripcion del producto, la cantidad que ingresa, el precio y una imagen del producto para despues verlo en la pagina de catalogo.
