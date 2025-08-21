@@ -1,0 +1,4 @@
+Hoy estuvimos trabajando en la gestión del carrito de compras en el catálogo. Se agregaron botones que permiten al usuario continuar comprando, finalizar la compra o eliminar productos del carrito. 
+Cuando el usuario finaliza la compra, calculamos el total de la compra, registramos la factura en la base de datos y guardamos los detalles de cada producto en la tabla correspondiente, incluyendo su cantidad y precio. Además, actualizamos el stock de los productos comprados. 
+Finalmente, vaciamos el carrito y redirigimos al usuario a una página de agradecimiento. 
+Con esto, logramos integrar un flujo completo para realizar compras, desde la selección de productos hasta el registro final en el sistema.
